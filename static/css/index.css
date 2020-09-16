@@ -1,0 +1,30 @@
+body {
+    background-color: #000000;
+}
+
+#clock {
+    height: 100px;
+    width: 800px;
+    margin: auto;
+    position: absolute;
+    top: 110px; left: 0; bottom: 0; right: 0;
+    padding-top: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+#date {
+    height: 200px;
+    width: 800;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 150px;
+}
